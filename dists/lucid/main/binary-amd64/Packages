@@ -1,3 +1,20 @@
+Package: mythicos-core-verrou
+Version: 1.0.6
+Architecture: all
+Maintainer: Studio Hastag <dev@hastag.fr>
+Provides: mint-meta-cinnamon, mint-meta-core
+Replaces: mint-meta-cinnamon, mint-meta-core
+Conflicts: mint-meta-cinnamon, mint-meta-core
+Priority: optional
+Section: metapackages
+Filename: pool/main/m/mythicos-core-verrou/mythicos-core-verrou_1.0.6_all.deb
+Size: 704
+SHA256: ec19c9f766a08bc86c8491474a76c970b403b0fddd64003d086a37a6c95010c4
+SHA1: b31385293bbd98b977bbd8ffe9b507f38f6c87da
+MD5sum: 3571744a2faa0d6f12c3242c13916f87
+Description: Verrou de compatibilité pour MythicOS
+ Remplace les méta-paquets Mint pour assurer la compatibilité avec MythicOS.
+
 Package: mythicos-icons
 Version: 1.0.2
 Architecture: all
