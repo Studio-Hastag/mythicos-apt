@@ -94,3 +94,18 @@ MD5sum: da552c3e84b2b8118d7b9478c9a12b2d
 Description: Fonds d’écran MythicOS
  Contient les fonds d’écran officiels de MythicOS Lucid.
 
+Package: mythicos-welcome
+Version: 1.0.0
+Architecture: all
+Maintainer: MythicOS <contact@hastag.fr>
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Priority: optional
+Section: utils
+Filename: pool/main/m/mythicos-welcome/mythicos-welcome_1.0.0_all.deb
+Size: 4878
+SHA256: 9091c84a463133ed3d6b877a01abbf0d74bc17beba00aecbd06f1bb0b7cfd6b2
+SHA1: df6459d45d7e8a01b11d05298fa470739b2a61b5
+MD5sum: 917acc7c41894a87e8c3a5ce4b305c60
+Description: Écran de bienvenue MythicOS
+ Application de bienvenue et d’onboarding pour MythicOS Lucid.
+
