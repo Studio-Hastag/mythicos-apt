@@ -1,0 +1,10 @@
+Origin: MythicOS
+Label: MythicOS
+Suite: lucid
+Codename: lucid
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: MythicOS Lucid Repository
+SignWith: 3E02F8ED371D119834007E72E4F6ED71160DFB59
+

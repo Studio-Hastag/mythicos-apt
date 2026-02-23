@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: MythicOS
+Label: MythicOS
+Suite: lucid
+Codename: lucid
+Version: 1.0
+Date: Mon, 23 Feb 2026 16:25:59 UTC
+Architectures: amd64
+Components: main
+Description: MythicOS Lucid Repository
+MD5Sum:
+ e38da12eb95105fd8298e4fe9b07635d 1490 main/binary-amd64/Packages
+ 0155207ae0a5c507301caf7754cfc070 671 main/binary-amd64/Packages.gz
+ ec23e55db1588d7ecce3d148d97a4678 136 main/binary-amd64/Release
+SHA1:
+ 7b9eaf1923557230bea2458c09fcae10e6141a7b 1490 main/binary-amd64/Packages
+ 61421db97f6d497da0a8c198531a3d410dcac6a3 671 main/binary-amd64/Packages.gz
+ 90e5560b860d24c7b09c952f1feb08f5eeb93eb5 136 main/binary-amd64/Release
+SHA256:
+ 582f93f1e1a092fee608cfdc0513c1b784ef17c563615c975965c5ab415a09bf 1490 main/binary-amd64/Packages
+ 767acecab49d42aede46de46694d4c92b63b96be8814d98a34639d7bbb406364 671 main/binary-amd64/Packages.gz
+ 66ebcbd61aef50253bb0f5ed6bf45761415cce1bb21580be045221a23af072c0 136 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEPgL47TcdEZg0AH5y5PbtcRYN+1kFAmmcf6IACgkQ5PbtcRYN
++1n3pg/+J8Ulqt4iGVMVAHyS9UsoVySmv0V/5Lln3OmE2MyuvdOqDHSDP8J4rUQ/
+zNo/cMBqo4/dgrbCuEZB/KKgEehsQSC8tcbux29wr3Mo9BQ1sBYRa9Brw3g2COg8
+sPp/G8uzpz9VcSZfkNAhfPWW/0Pd7aTD8RgI2X36FXcKLZl4/eHRJXvNgkSuG5RM
+mX07r3AFaCTQUXQome2uUUi4BIMx8u4Nb3IMyxEYkOrLcz9tSZzLL3VkBexDCzv6
+HjB5mvoTtO7CBrQlAcpwbGXsdYbXSoUfZbhUcQb4Eb2pt9i+EFLZxhDW3xWWBtpx
+6Py2JY79D6aJ2wyvhUIVm2JT+1mmS7J94iejFpz7mvPi0wz/I1B0V6PJc9GS8Two
+becG2qzi0WB1vApp7JdO4fNOtdgSgBgqZVdIkSKEd9UIm6rtFixrnP2rBrPBejj1
+muZ6H1G1fh9kqhouASTCaT9+6zW/aLw2hDOUzDCyYBJxvbj2ugUA4SG7TFqOej4f
+BsMIAME1RWelQVuM+UC+Hq4RjxTNkzFz/Fx5W+SvJjDbpp2frK7U5Hq/nkLjrc7t
+hnVeAuYzENPCfkWElfKMFwleol+XkHBpQ2JT2VHH7WE1/zULkOQfmOX4K+Pn/OEQ
+FIfFrIRoMdD3+mrQQi1yE7t1bQSHjS8MM3NxfibKieyGNAneIqA=
+=08k5
+-----END PGP SIGNATURE-----

@@ -1,0 +1,7 @@
+Archive: lucid
+Version: 1.0
+Component: main
+Origin: MythicOS
+Label: MythicOS
+Architecture: amd64
+Description: MythicOS Lucid Repository

@@ -1,0 +1,45 @@
+Package: mythicos-icons
+Version: 1.0.2
+Architecture: all
+Maintainer: MythicOS <contact@hastag.fr>
+Depends:
+Priority: optional
+Section: x11
+Filename: pool/main/m/mythicos-icons/mythicos-icons_1.0.2_all.deb
+Size: 165226436
+SHA256: bc13d0ddda7fbb2f94ac0770c362b6935fbb1600e5e9929f86ad21a6129cf180
+SHA1: 8edc78fae60085cd1ca5cdd7f0b3b4921b24bbf8
+MD5sum: fdcda1cbdb01c99d88ebbbf3fb979dda
+Description: Icônes officielles MythicOS
+ Contient les thèmes d’icônes Mythic-Y, Mythic-L et Mythic-X.
+
+Package: mythicos-themes
+Version: 1.0.0
+Architecture: all
+Maintainer: MythicOS <contact@hastag.fr>
+Depends:
+Priority: optional
+Section: x11
+Filename: pool/main/m/mythicos-themes/mythicos-themes_1.0.0_all.deb
+Size: 464984
+SHA256: e849cea170fa699ead3162c89fb9160e63bf62a6d1b4fb2ce009497c5518e03f
+SHA1: 3086baa00984bb21fa34716222a165158d3ade12
+MD5sum: 4ef16d0382c82b61acb241657a5e592a
+Description: Thèmes officiels MythicOS
+ Contient les thèmes GTK et Cinnamon adaptés : Mythic-Y, Mythic-L et Mythic-X.
+
+Package: mythicos-wallpapers
+Version: 1.0.0
+Architecture: all
+Maintainer: MythicOS <contact@hastag.fr>
+Depends:
+Priority: optional
+Section: x11
+Filename: pool/main/m/mythicos-wallpapers/mythicos-wallpapers_1.0.0_all.deb
+Size: 4171392
+SHA256: 7d097f645147b3d2b9614d6fb2fa88ffbfd28ebcb4862112c5ed4f103087920a
+SHA1: fe8b2749b241bda95140a8f7587660b6520dec42
+MD5sum: da552c3e84b2b8118d7b9478c9a12b2d
+Description: Fonds d’écran MythicOS
+ Contient les fonds d’écran officiels de MythicOS Lucid.
+
