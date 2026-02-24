@@ -34,18 +34,18 @@ Description: Verrou de compatibilité pour MythicOS
  Remplace les méta-paquets Mint pour assurer la compatibilité avec MythicOS.
 
 Package: mythicos-desktop
-Version: 1.0.6
+Version: 1.0.7
 Architecture: all
 Maintainer: MythicOS <contact@hastag.fr>
-Depends: cinnamon, nemo, network-manager, gnome-software, ubuntu-drivers-common, usb-creator-gtk, mythicos-core-verrou, mythic-settings, pulseaudio-utils, lsb-release, policykit-1
+Depends: cinnamon, nemo, network-manager, gnome-software, ubuntu-drivers-common, usb-creator-gtk, mythicos-core-verrou, mythic-settings, pulseaudio-utils, lsb-release, policykit-1, mythicos-welcome
 Recommends: mythicos-themes, mythicos-icons, mythicos-wallpapers
 Priority: optional
 Section: metapackages
-Filename: pool/main/m/mythicos-desktop/mythicos-desktop_1.0.6_all.deb
-Size: 706
-SHA256: 874230d02354d11080d93f71a17af097bb4b0cff19cb459f7b9b1661f059001e
-SHA1: 1057e7cd8dcecc61545ba04a46631efc85de2d92
-MD5sum: 43d3aafc56757fe949a74bab8e37df60
+Filename: pool/main/m/mythicos-desktop/mythicos-desktop_1.0.7_all.deb
+Size: 714
+SHA256: 496396edc891e83b12bada1133161e9c4071d20b114d8a71353e0fd0c28aabbf
+SHA1: 3eb2d28f186a3fdd90b9488b12bffab96fc8cc25
+MD5sum: 933a7c1df5c8502d34c7706c2e952bac
 Description: Environnement de bureau MythicOS
  Métapaquet installant l’environnement de bureau MythicOS Lucid.
 
