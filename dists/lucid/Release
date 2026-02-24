@@ -3,19 +3,19 @@ Label: MythicOS
 Suite: lucid
 Codename: lucid
 Version: 1.0
-Date: Tue, 24 Feb 2026 18:40:39 UTC
+Date: Tue, 24 Feb 2026 18:48:39 UTC
 Architectures: amd64
 Components: main
 Description: MythicOS Lucid Repository
 MD5Sum:
- 313a9b229738bd4e35841b4af0ffcc26 4290 main/binary-amd64/Packages
- 79831bec1fc3e137c59b6c5098299cd1 1746 main/binary-amd64/Packages.gz
+ 53787125a5a7c874ba2f022b729a7c4d 4752 main/binary-amd64/Packages
+ a52ee09f2f9242f1b1183a6e9d359fba 1896 main/binary-amd64/Packages.gz
  ec23e55db1588d7ecce3d148d97a4678 136 main/binary-amd64/Release
 SHA1:
- e24ec73e33916cec74600b49b200e88fa8a58a53 4290 main/binary-amd64/Packages
- 6a54b3a100d6038eb645625b7e0bf8bf02cded17 1746 main/binary-amd64/Packages.gz
+ 4a3d2572955f8babb7b184a8b8b8573554afc27e 4752 main/binary-amd64/Packages
+ ea5f39d7e0a7785fb4349bc6c50210d4107bdc31 1896 main/binary-amd64/Packages.gz
  90e5560b860d24c7b09c952f1feb08f5eeb93eb5 136 main/binary-amd64/Release
 SHA256:
- eb689bc7c0bafd15aafd6268556f830cd83efb122f86729a18a66f45266e51af 4290 main/binary-amd64/Packages
- aac465a3e9f6ebe2d3169ec833a73b2614466b783f2728a99b6202daf4a5ac99 1746 main/binary-amd64/Packages.gz
+ a23f0701670c360bd1889447f2a3f245aca82cabaeb4b0b513217b680f489224 4752 main/binary-amd64/Packages
+ 247b1bb334b1c0e54586521e54e18cf43483b219de0c581fabd5fd259ad2f051 1896 main/binary-amd64/Packages.gz
  66ebcbd61aef50253bb0f5ed6bf45761415cce1bb21580be045221a23af072c0 136 main/binary-amd64/Release

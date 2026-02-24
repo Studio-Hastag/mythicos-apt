@@ -64,6 +64,22 @@ MD5sum: fdcda1cbdb01c99d88ebbbf3fb979dda
 Description: Icônes officielles MythicOS
  Contient les thèmes d’icônes Mythic-Y, Mythic-L et Mythic-X.
 
+Package: mythicos-system
+Version: 1.0
+Architecture: amd64
+Maintainer: MythicOS
+Priority: optional
+Section: metapackages
+Filename: pool/main/m/mythicos-system/mythicos-system_1.0_amd64.deb
+Size: 520
+SHA256: bb676a318f81828e1bd00cf4fd852f00e6a8a3d72b6112db2b3a189e27417684
+SHA1: dc91fe244c829c9db6f552395be669151361fe69
+MD5sum: 572dfac759056cac3b317c1f255a153e
+Description: MythicOS system identity
+Provides: mintsystem
+Conflicts: mintsystem
+Replaces: mintsystem
+
 Package: mythicos-themes
 Version: 1.0.0
 Architecture: all
