@@ -64,6 +64,23 @@ MD5sum: fdcda1cbdb01c99d88ebbbf3fb979dda
 Description: Icônes officielles MythicOS
  Contient les thèmes d’icônes Mythic-Y, Mythic-L et Mythic-X.
 
+Package: mythicos-sources
+Version: 1.0.0
+Architecture: all
+Maintainer: Adam <contact@hastag.fr>
+Installed-Size: 1178
+Depends: python3:any, python3-gi, gir1.2-gtk-3.0, wget, gpg, software-properties-common, pkexec
+Priority: important
+Section: admin
+Filename: pool/main/m/mythicos-sources/mythicos-sources_1.0.0_all.deb
+Size: 1173890
+SHA256: 931509031dbbebd3df8797668cf3a854aea5c1d6b67f2b3aef6db47dbfc6384d
+SHA1: 2e680b11ebd08d6150a546a0bdba78112dc63da2
+MD5sum: ed0cfc83ab6b405384916f6b230d8b90
+Description: Gestionnaire de dépôts MythicOS
+ Application complète pour gérer les dépôts APT, les fichiers .list et .sources,
+ les clés GPG, les PPA et les dépôts tiers.
+
 Package: mythicos-system
 Version: 1.0
 Architecture: amd64
