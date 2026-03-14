@@ -6,7 +6,7 @@ Label: MythicOS
 Suite: lucid
 Codename: lucid
 Version: 1.0
-Date: Thu, 26 Feb 2026 13:36:55 UTC
+Date: Sat, 14 Mar 2026 20:07:49 UTC
 Architectures: amd64
 Components: main
 Description: MythicOS Lucid Repository
@@ -14,27 +14,36 @@ MD5Sum:
  6ba6e706271502fdc2f46242cd92b56d 5447 main/binary-amd64/Packages
  6c97c64921adcccf3e42062cff1c6b22 2172 main/binary-amd64/Packages.gz
  ec23e55db1588d7ecce3d148d97a4678 136 main/binary-amd64/Release
+ 2d1c53ec13945bf594fb4782dbf21cfe 895 main/source/Sources
+ 6f726d5e49c0fb2cb05556a6f7e11e5a 501 main/source/Sources.gz
+ 4cbe7a2e3a083403254d341c2c0a4947 137 main/source/Release
 SHA1:
  acf1305c4b2fd63b7a9997b85f9ec0234661990a 5447 main/binary-amd64/Packages
  8d23dc220a6f1a2d2b5c72057509da0b8c44842d 2172 main/binary-amd64/Packages.gz
  90e5560b860d24c7b09c952f1feb08f5eeb93eb5 136 main/binary-amd64/Release
+ f31f946d5ec4ca10cbfef2c182eac839af4493ab 895 main/source/Sources
+ c01a0cae9021e9dba4112247847f39e5d87cffc1 501 main/source/Sources.gz
+ 26065c33160ed4102e4dd088de818ccb2f1b1148 137 main/source/Release
 SHA256:
  df4b0f1719dd8425509134ed462ea4081b32357e8f085b9bc7cc7dd95a4b9881 5447 main/binary-amd64/Packages
  b206ead148e2ce3b1c1ac6d125e23505f46557a25c752f6597e218248c30629e 2172 main/binary-amd64/Packages.gz
  66ebcbd61aef50253bb0f5ed6bf45761415cce1bb21580be045221a23af072c0 136 main/binary-amd64/Release
+ 1846f8cf52d44913d86ceb5b834d01466e04c9a0231855eb16e53306954fb1ee 895 main/source/Sources
+ 82ef8e1dd0ac867e2d3130690bd5efeea3f473c65500a557bcb8679fa76acde1 501 main/source/Sources.gz
+ 519c2804dd5d1400584a65e9b7a0fdcbc96d7e3cecc66ac6d20f9e2806389d09 137 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEPgL47TcdEZg0AH5y5PbtcRYN+1kFAmmgTIIACgkQ5PbtcRYN
-+1kKXw//T+RyyATUIszkVfpnYnKa9iFBPwNp/DErtXWAmKJIJEtRH8MGueU4l6JY
-fSLEoEqPIVr2+H6In1KSAK1mMc64wxlVfqUNAJYQW0n/f0sggj+TgQB5BIsIlAM4
-bpuB2EKQRnWQYyedn47a1RXmzt2a+wNgTvuByEMNOXY/KMdoYkvi/sdpBc9H1Mmr
-u+X5j8BUy3xkI22kRLDjiqaxIETtU2d0MC0LN9ltQc5/zCavxOEF5QLPj8XRiW7O
-4Le1nIUjWXcxN9lnt/YhtZhq+7xwhl7ogz/qgkBJVkFJ91JJ+dVxK4/gTdyGizKP
-fkB9Yj67uZjt55xoSYAcE/tSw7vuyekg65/A5yz27z2+EpyfszE462Y2zVADc2nx
-COoLJuxAPVO/pS/PlVtGheRBSEQo12QIxV+HFfrCHfUmm2z0hCEck2EF5ukuQfA8
-QBaRbdL/JrQzajIKp1SmvLnzmz5FNKLaHLOa5e39H74XWkQ4n6xksdHujVXkp5Nq
-vZfXRMBU00qUEQpWRSw/MMJJmTptjL7rmoblrSD276aP0dOwjsaQ8rLF6lZPvtv8
-KvMaCYYMUsEa1CHzy3+gqJDDr7p7+Nix7ss/AVPNGqdaLnBZxDdbFN6XZ9FSGInH
-/vaX3TONQ+4q2SMO2CAF08atif48Zt2ZfofRubbeheYbiBM5rt0=
-=j/0f
+iQIzBAEBCgAdFiEEPgL47TcdEZg0AH5y5PbtcRYN+1kFAmm1wC8ACgkQ5PbtcRYN
++1nHkg/+P0qblazL3HOzOqYF63+Hf6u+fswkDCBQDl7Qi54hoZfKmCuYcDaF4lsh
+pQeebVqhFek7d1OV+tW2tcpPsuxSnPU9eVRicfMyFgLXE6xZvjHIiEpVhj+SbE9x
+o5kGBC9rGwRLy0qa9Q5CswVi5kL03Hm9nrxRGxWscfo3eFbsTWvQTaC82qei0tJX
+JwxC2kt5vaO64hCbfMxCa7G+u78dogRZXZLS8N0Jv1CqBHJ6Rdc/zAWOo8fNKOVT
+LL1ZUDp1y5RJ4eUDseIu0WTLU1mW9hTzXQpbHzGTGOtD3QhD41F/jDd+JQgDh0B5
+6UXy2vVq0e6zIEKN60WywGPZSfWliFZ6s+/kyu1ZDStFp11g00piEPzVuHpD/Ct3
+nJ0zqz/KXDQwdY6p99Ge+5GWhlSyxlgRKpHq9oHEg+5ERsX46Zb+aa3KXyX1+59l
+FqrqYwU9kzxrKoznsW0mHfSE/DaaGDLYzEll1dEA5xsb1QVyNtAH+j2EDx2HL0yG
+L0g6tJqyasvuuYf7jrekeVwDwj5AflOIupsIQduyf+dV6M7K7Z6pZ1tUHjYad9KR
+wXibF0ZMs17hf19AkwcW4yiuQmRWtYDjooDCq+c5UH/wZtbIze3qTwvqpLLzHVyI
+UeMTMps9xfu3TZuAyHVJB/z8tKX8sFLoBDeSZ1SM/nkTYuVx6pw=
+=6Tgh
 -----END PGP SIGNATURE-----
