@@ -3,28 +3,28 @@ Label: MythicOS
 Suite: lucid
 Codename: lucid
 Version: 1.0
-Date: Sat, 14 Mar 2026 20:07:49 UTC
+Date: Sat, 14 Mar 2026 20:45:45 UTC
 Architectures: amd64
 Components: main
 Description: MythicOS Lucid Repository
 MD5Sum:
- 6ba6e706271502fdc2f46242cd92b56d 5447 main/binary-amd64/Packages
- 6c97c64921adcccf3e42062cff1c6b22 2172 main/binary-amd64/Packages.gz
+ 9cceee58f89efed88226c9db6801e396 5802 main/binary-amd64/Packages
+ e8dc7d565dc6dd3b5baac9b18f880084 2317 main/binary-amd64/Packages.gz
  ec23e55db1588d7ecce3d148d97a4678 136 main/binary-amd64/Release
- 2d1c53ec13945bf594fb4782dbf21cfe 895 main/source/Sources
- 6f726d5e49c0fb2cb05556a6f7e11e5a 501 main/source/Sources.gz
+ fde2d3f0cd7a61efb2c04e0a2fff4dda 895 main/source/Sources
+ d35751a71c5c753a4ce9e693519d2392 501 main/source/Sources.gz
  4cbe7a2e3a083403254d341c2c0a4947 137 main/source/Release
 SHA1:
- acf1305c4b2fd63b7a9997b85f9ec0234661990a 5447 main/binary-amd64/Packages
- 8d23dc220a6f1a2d2b5c72057509da0b8c44842d 2172 main/binary-amd64/Packages.gz
+ ca5e3d34a1799510016effee407aebf6a65fefb9 5802 main/binary-amd64/Packages
+ 4d38a186b7300bcfe2bce204cb8f42b91859ad4e 2317 main/binary-amd64/Packages.gz
  90e5560b860d24c7b09c952f1feb08f5eeb93eb5 136 main/binary-amd64/Release
- f31f946d5ec4ca10cbfef2c182eac839af4493ab 895 main/source/Sources
- c01a0cae9021e9dba4112247847f39e5d87cffc1 501 main/source/Sources.gz
+ 3e6c486ca75af3f18fc163bbe02c0e547cc787b2 895 main/source/Sources
+ 7fc423b76f44ea373d4e8317cf5b2a297760b1d9 501 main/source/Sources.gz
  26065c33160ed4102e4dd088de818ccb2f1b1148 137 main/source/Release
 SHA256:
- df4b0f1719dd8425509134ed462ea4081b32357e8f085b9bc7cc7dd95a4b9881 5447 main/binary-amd64/Packages
- b206ead148e2ce3b1c1ac6d125e23505f46557a25c752f6597e218248c30629e 2172 main/binary-amd64/Packages.gz
+ 98ed6a95e1cdba92e8c0738eced6889e1dc9c52f1269d5c3c91d5920d19f7eee 5802 main/binary-amd64/Packages
+ b7bded55b2b769302129858ab23b77c56b2e7ce8c3a8a2ea47724baef0f1ce9e 2317 main/binary-amd64/Packages.gz
  66ebcbd61aef50253bb0f5ed6bf45761415cce1bb21580be045221a23af072c0 136 main/binary-amd64/Release
- 1846f8cf52d44913d86ceb5b834d01466e04c9a0231855eb16e53306954fb1ee 895 main/source/Sources
- 82ef8e1dd0ac867e2d3130690bd5efeea3f473c65500a557bcb8679fa76acde1 501 main/source/Sources.gz
+ 73bebff6affcc0c489a927919301c059dbba06faba683f182f7d915b6034d961 895 main/source/Sources
+ 24303f79c6b8fe5b9115de42887a227565800cdd8a3b798ffffe14930c24c2ac 501 main/source/Sources.gz
  519c2804dd5d1400584a65e9b7a0fdcbc96d7e3cecc66ac6d20f9e2806389d09 137 main/source/Release

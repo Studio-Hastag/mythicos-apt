@@ -82,20 +82,28 @@ Description: Gestionnaire de dépôts MythicOS
  les clés GPG, les PPA et les dépôts tiers.
 
 Package: mythicos-system
-Version: 1.0
-Architecture: amd64
-Maintainer: MythicOS
-Priority: optional
-Section: metapackages
-Filename: pool/main/m/mythicos-system/mythicos-system_1.0_amd64.deb
-Size: 520
-SHA256: bb676a318f81828e1bd00cf4fd852f00e6a8a3d72b6112db2b3a189e27417684
-SHA1: dc91fe244c829c9db6f552395be669151361fe69
-MD5sum: 572dfac759056cac3b317c1f255a153e
-Description: MythicOS system identity
-Provides: mintsystem
+Version: 1.1
+Architecture: all
+Maintainer: MythicOS Team <packages@mythicos.hastag.fr>
+Installed-Size: 93
+Depends: python3 (>= 3.8), perl, apt, aptitude, zenity, dconf-gsettings-backend | gsettings-backend
 Conflicts: mintsystem
 Replaces: mintsystem
+Provides: mintsystem
+Homepage: https://mythicos.hastag.fr
+Priority: optional
+Section: admin
+Filename: pool/main/m/mythicos-system/mythicos-system_1.1_all.deb
+Size: 12650
+SHA256: 04a070423b0c584900e20f20b8fd0ded27e32b62dc6076a5592c79df21fdec4a
+SHA1: b63091ea0f9274113849a1b798cc3850cf13a637
+MD5sum: 178ff52e05cd38a953e30f32c4e89c2f
+Description: MythicOS system base package
+ Core system package for MythicOS.
+ .
+ Provides system utilities, configuration helpers and
+ integration scripts used by the MythicOS desktop and
+ other MythicOS tools.
 
 Package: mythicos-themes
 Version: 1.0.0
